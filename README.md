@@ -1,1 +1,1 @@
-# golanng-beego
+# golangbeego
