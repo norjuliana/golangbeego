@@ -1,0 +1,1 @@
+# golanng-beego
